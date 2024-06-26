@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2024-06-26T20:12:24.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="78FpD08Lp_e9ck2FGiIm" version="24.4.0" type="device">
+  <diagram name="Page-1" id="QqVlai7x6oJ4WsqSbR1_">
+    <mxGraphModel dx="1515" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-1" value="Generative AI&lt;div&gt;using docker&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="990" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-2" target="lcWbJ2GLk_5dm3ZLP-Wz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-2" target="lcWbJ2GLk_5dm3ZLP-Wz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-2" target="lcWbJ2GLk_5dm3ZLP-Wz-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-2" value="AR/XR/VR&lt;div&gt;1 hr lec, 1 hr activity&lt;/div&gt;&lt;div&gt;*tentative&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-3" target="lcWbJ2GLk_5dm3ZLP-Wz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-27" value="Perform demonstrations of the software interactive environment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lcWbJ2GLk_5dm3ZLP-Wz-9">
+          <mxGeometry x="-0.28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-3" value="Unity Engine (2D)&lt;div&gt;*Will be 3D eventually&lt;/div&gt;&lt;div&gt;1 hr lec, 1 hr activity&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-4" target="lcWbJ2GLk_5dm3ZLP-Wz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-25" value="Add generative AI to provide better feedback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lcWbJ2GLk_5dm3ZLP-Wz-24">
+          <mxGeometry x="0.2115" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-4" value="VR Glove&lt;div&gt;30 min lec, 1.5 hr activity**&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-5" target="lcWbJ2GLk_5dm3ZLP-Wz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-15" value="Add in the VR glove to mimic the &quot;feeling&quot; of object&lt;div&gt;Guadualupe has the github repo code, but limited to simple shapes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ex: Screw is considered a simple cylinder; a detailed model requires CAD&lt;/div&gt;&lt;div&gt;Need somebody with good CADing skills&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lcWbJ2GLk_5dm3ZLP-Wz-14">
+          <mxGeometry x="-0.1657" y="3" relative="1" as="geometry">
+            <mxPoint x="7" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-5" value="Show off interactive environment from Unity environment, incorporated from the Quest Headset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="610" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-8" target="lcWbJ2GLk_5dm3ZLP-Wz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-11" value="Add some virtual stuff&lt;div&gt;Something to connect the two together (vaguely)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lcWbJ2GLk_5dm3ZLP-Wz-10">
+          <mxGeometry x="0.0613" y="7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-8" value="BTS of the interactive environment&lt;div&gt;Ex: Mesh B107 environment and create collision event (in software)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="370" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-16" target="lcWbJ2GLk_5dm3ZLP-Wz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-18" value="Motivation for a &quot;virtual environment&quot;&lt;div&gt;Understand Unity 2D/3D objects and how to work with them (in software)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lcWbJ2GLk_5dm3ZLP-Wz-17">
+          <mxGeometry x="-0.0933" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-16" value="Start" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="730" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-19" target="lcWbJ2GLk_5dm3ZLP-Wz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-19" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcWbJ2GLk_5dm3ZLP-Wz-32" target="lcWbJ2GLk_5dm3ZLP-Wz-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-36" value="*Tentative, under development at the time of writing&lt;div&gt;Still in research&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lcWbJ2GLk_5dm3ZLP-Wz-35">
+          <mxGeometry x="0.0249" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-32" value="Github repo to allow us to see what the Meta Quest 3 sees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lcWbJ2GLk_5dm3ZLP-Wz-34" value="CV line segment detection for hands" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
