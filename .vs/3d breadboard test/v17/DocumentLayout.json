@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\assets\\scripts\\wire end scripts (null)\\wireend1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wire end scripts (null)\\wireend1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\assets\\scripts\\wire end scripts (null)\\wireend2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wire end scripts (null)\\wireend2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|c:\\users\\bobbert\\desktop\\unity projects\\3d breadboard test\\assets\\scripts\\wirelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wirelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\assets\\scripts\\instantiate_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\instantiate_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\assets\\scripts\\boardrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A2D457-567C-93A9-2A2F-DB7AB0B4B38C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boardrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "instantiate_script.cs",
+              "DocumentMoniker": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\instantiate_script.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\instantiate_script.cs",
+              "ToolTip": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\instantiate_script.cs",
+              "RelativeToolTip": "Assets\\scripts\\instantiate_script.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:37:17.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoardRow.cs",
+              "DocumentMoniker": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\BoardRow.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BoardRow.cs",
+              "ToolTip": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\BoardRow.cs",
+              "RelativeToolTip": "Assets\\scripts\\BoardRow.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:56:56.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WireEnd1.cs",
+              "DocumentMoniker": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\Wire End scripts (null)\\WireEnd1.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Wire End scripts (null)\\WireEnd1.cs",
+              "ToolTip": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\Wire End scripts (null)\\WireEnd1.cs",
+              "RelativeToolTip": "Assets\\scripts\\Wire End scripts (null)\\WireEnd1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:22:49.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WireLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\WireLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\WireLogic.cs",
+              "ToolTip": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\WireLogic.cs",
+              "RelativeToolTip": "Assets\\scripts\\WireLogic.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:18:18.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WireEnd2.cs",
+              "DocumentMoniker": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\Wire End scripts (null)\\WireEnd2.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Wire End scripts (null)\\WireEnd2.cs",
+              "ToolTip": "C:\\Users\\Bobbert\\Desktop\\unity projects\\3d breadboard test\\Assets\\scripts\\Wire End scripts (null)\\WireEnd2.cs",
+              "RelativeToolTip": "Assets\\scripts\\Wire End scripts (null)\\WireEnd2.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:22:39.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
