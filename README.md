@@ -1,4 +1,5 @@
 # Smart Program: VR / AR / XR Tech for Virtual Learning Spaces (Summer 2024)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/730cb77a-2744-4a56-99f5-8488f4139a6a" />
 
 ## Overview
 This repository contains a **Summer 2024 exploratory project** focused on building a **Unity-based XR (VR/AR/MR) learning environment**, with early experimentation in:
